@@ -131,7 +131,7 @@ export default function ChaiShaiPage() {
           <div className="text-green-300 space-y-2">
             <p>{">"} INITIALIZING CHAI PROTOCOL...</p>
             <p>{">"} SUNDAY SESSIONS ONLY</p>
-            <p>{">"} LOCATION: MY_OFFICE.TERMINAL</p>
+            <p>{">"} LOCATION: LOC.TERMINAL</p>
             <p>{">"} DURATION: 1 HOUR</p>
             <p className="text-yellow-400">{">"} STATUS: ACCEPTING BOOKINGS</p>
           </div>
